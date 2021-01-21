@@ -20,6 +20,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(250,3,232,1) 0%, rgba
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    overflow-x:hidden;
 }
 .body2{
   padding:0;
@@ -31,6 +32,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(250,3,232,1) 0%, rgba
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    overflow-x:hidden;
 }
   h1{
       padding-top:10px;
