@@ -8,6 +8,7 @@ body {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    overflow-x:hidden;
   }
 .body1{
     padding:0;
@@ -31,11 +32,16 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(250,3,232,1) 0%, rgba
     background-position: center;
     background-attachment: fixed;
 }
-  h1, .para{
+  h1{
       padding-top:10px;
       color:white;
       font-size:36px;
   }
+.para{
+     padding-top:10px;
+      color:white;
+      font-size:30px;
+}
   .heading{
       font-weight: bold;
       color:white;
